@@ -7,4 +7,4 @@ Ideally, I would have built something more fully functioned, but as usual, procr
 
 There might be some upcoming technical posts, depends on if I feel like it, but it won't live long on this site, as I intend on separately hosting the content in the long term, providing at least a mirage of separation between my unhinged and professional self. 
 
-Go read my [[Life/]] updates, my [[Tech/]] stuff, or a book.
+Go read my [[Life/]] updates, or my [[Tech/]] stuff, or a book.
