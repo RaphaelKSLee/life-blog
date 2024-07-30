@@ -1,7 +1,7 @@
 ---
 title: THE cringe content compendium
 ---
-dWelcome to my humble... some call it a hypertext digital garden, I uh, call it my shitter. Bloody pompous academics, amirite?
+Welcome to my humble... some call it a hypertext digital garden, I uh, call it my shitter. Bloody pompous academics, amirite?
 
 Ideally, I would have built something more fully functioned, but as usual, procrastination got to my ass. So here you go, something quick and dirty, rushed out for a certain anniversary.
 
