@@ -5,6 +5,9 @@ https://old.reddit.com/r/hardware/
 https://old.reddit.com/r/intel/
 https://old.reddit.com/r/nvidia/
 https://old.reddit.com/r/Amd/
+https://old.reddit.com/r/homelab/
+https://old.reddit.com/r/HomeNetworking/
+https://old.reddit.com/r/DataHoarder/
 
 # Software development
 https://old.reddit.com/r/csMajors/
